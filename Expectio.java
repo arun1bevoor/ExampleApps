@@ -1,4 +1,4 @@
-
+/* functionality used for exception handling */
 public class Expectio 
 {
 	/*blic void fun(int age)
