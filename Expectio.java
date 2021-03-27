@@ -8,11 +8,13 @@ public class Expectio
 			throw  new ArithmeticException();
 			
 		}	
-		else
+		else if(age>18 && age<50)
 		{
 			System.out.println("matured");
 			
-		}
+		}else{
+			System.out.println("older");
+}
 	}*/
 	
 	
